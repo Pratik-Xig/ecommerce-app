@@ -1,0 +1,44 @@
+[
+  {
+    "id": "smartphones",
+    "name": "Smartphones",
+    "icon": "📱",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=60",
+    "productCount": 124
+  },
+  {
+    "id": "laptops",
+    "name": "Laptops",
+    "icon": "💻",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=60",
+    "productCount": 89
+  },
+  {
+    "id": "audio",
+    "name": "Audio",
+    "icon": "🎧",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+    "productCount": 156
+  },
+  {
+    "id": "wearables",
+    "name": "Wearables",
+    "icon": "⌚",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60",
+    "productCount": 67
+  },
+  {
+    "id": "cameras",
+    "name": "Cameras",
+    "icon": "📷",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop&q=60",
+    "productCount": 45
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "icon": "🎮",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&auto=format&fit=crop&q=60",
+    "productCount": 203
+  }
+]
